@@ -2,7 +2,7 @@
 
 > **Unofficial NeoForge port** of the Voxy mod
 
-## Special Thanks
+## Special Thanks 
 
 **All credit for Voxy goes to [MCRcortex](https://github.com/MCRcortex)**, the original author and creator of this incredible LOD rendering mod.
 
